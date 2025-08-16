@@ -11,5 +11,3 @@
  👩🏽‍💻 Technologies
 
 -AWS Services: CloudWatch, SNS, IAM
-
--Language/Tools: Python (Boto3), AWS CLI
